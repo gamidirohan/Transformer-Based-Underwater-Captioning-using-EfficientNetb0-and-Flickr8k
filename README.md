@@ -1,4 +1,4 @@
-# Aquarium Object Detection using Faster R-CNN
+# AquaDetect: Aquarium Object Detection using Faster R-CNN
 
 ## Project Overview
 This project focuses on implementing an object detection model for underwater images using the Faster R-CNN architecture. The primary goal is to detect and classify marine animals from images in the *Aquarium Dataset* sourced from Roboflow. The dataset contains images of fish, jellyfish, penguins, puffins, sharks, starfish, and stingrays, with labeled bounding boxes for each object.
